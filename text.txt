@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-This is another commit!
-=======
-This is again a commit!
->>>>>>> feature
-
-My 2nd commit!

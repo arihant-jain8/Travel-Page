@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(224, 172, 113);
+    font-size: 30px;
+}
+
+ul{
+    background-color: rgb(202, 157, 102);
+    list-style: none;
+    width: 100%;
+    padding: 60px;
+    text-align: center;
+    align-items: center;
+}
+
+.flexer{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.flexer li{
+    width: 50%;
+}
+
+li{
+    background-color: bisque;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px rgb(0, 0, 0);
+}

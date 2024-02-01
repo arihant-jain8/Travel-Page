@@ -24,11 +24,19 @@ ul{
 #page-logo a{
     padding: 10px;
     font-family: "Oleo Script", sans-serif;
-    color: rgb(245, 243, 160);
+    /* color: rgb(245, 243, 160); */
+    color: rgb(43, 219, 193);
+    /* #00C0A3 */
+    /* #249D9F */
     font-size: 50px;
     text-decoration: none;
     text-transform: uppercase;
-    text-shadow: 1px 1px 2px rgb(0, 0, 0);
+    text-shadow: 7px 7px 10px rgb(0, 0, 0);
+}
+
+#page-logo a:hover{
+    color: rgb(49, 236, 208);
+    text-shadow: 10px 10px 10px rgba(0, 0, 0, 0.9);
 }
 
 header ul{
